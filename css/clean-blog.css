@@ -162,8 +162,8 @@ hr.small {
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
   font-size: 24px;
-  line-height: 1.1;
-  display: block;
+  line-height: 1.1,
+			display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
@@ -394,4 +394,29 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
+}
+.profile {
+  background-color: #333 !important;
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  right: 50%;
+  margin-top: -70px;
+  margin-right: -70px;
+  background-size: cover;
+  border-radius: 50%;
+  z-index: 99;
+  text-indent: -9999px;
+  border: 3px solid #fff;
+  background-color: #fff;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.5s ease;
+}
+.profile:hover,
+.profile:focus {
+  cursor: pointer;
+  /* transition: background-color 0.5s ease; */
+  background-color: #0085a1 !important;
 }
