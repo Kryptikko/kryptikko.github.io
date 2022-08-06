@@ -57,12 +57,12 @@
   </url>
   
   <url>
-    <loc>https://kryptikko.github.io/tags/another-tag/</loc>
+    <loc>https://kryptikko.github.io/tags/second-tag/</loc>
     <lastmod>2022-08-06</lastmod>
   </url>
   
   <url>
-    <loc>https://kryptikko.github.io/tags/second-tag/</loc>
+    <loc>https://kryptikko.github.io/tags/posts-with-two-tags/</loc>
     <lastmod>2022-08-06</lastmod>
   </url>
   
@@ -72,7 +72,7 @@
   </url>
   
   <url>
-    <loc>https://kryptikko.github.io/tags/posts-with-two-tags/</loc>
+    <loc>https://kryptikko.github.io/tags/another-tag/</loc>
     <lastmod>2022-08-06</lastmod>
   </url>
 </urlset>
