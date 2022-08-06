@@ -1,0 +1,21 @@
+{
+  "title": "Blog name",
+  "url": "https://kryptikko.github.io/",
+  "language": "en",
+  "description": "Description",
+  "feed": {
+    "subtitle": "A nice engaging subtitle.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://kryptikko.github.io/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://kryptikko.github.io/feed/feed.json"
+  },
+  "author": {
+    "name": "Velin 'Kryptikko' Vangelov",
+    "email": "velin.br.vangelov@gmail.com",
+    "url": "https://kryptikko.github.io/about/"
+  }
+}
